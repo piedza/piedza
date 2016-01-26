@@ -14,6 +14,7 @@ class HelloWorld {
     
     constructor() {
         this.names = ['Chris', 'Petra', 'Ernst']
+        this.names.push('Klaasjan @ '+new Date())
     }
 }
 
