@@ -20,3 +20,7 @@ hs_err_pid*
 
 #Exclude Idea configuration folder
 .idea
+
+#VIM backup files
+*~
+
