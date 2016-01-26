@@ -12,8 +12,8 @@ export class HelloWorld {
   names: string[];
 
   constructor() {
-      this.names = ['Chris', 'Petra', 'Ernst', 'Axel']
-      this.names.push('Klaasjan @ '+new Date())
-      this.names.push('Diederik Refactores')
+    this.names = ['Chris', 'PetraAKAWeversiep', 'Ernst8', 'Hans', 'Klaasjan', 'Arjen', 'Marleen', 'Sjoerd']
+    this.names.push('Klaasjan @ '+new Date())
+    this.names.push('Diederik Refactores')
   }
 };
