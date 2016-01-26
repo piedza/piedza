@@ -13,7 +13,7 @@ class HelloWorld {
     names: string[];
     
     constructor() {
-        this.names = ['Chris', 'Petra', 'Ernst', 'Hans']
+        this.names = ['Chris', 'Petra', 'Ernst', 'Hans', 'Klaasjan', 'Arjen']
     }
 }
 
